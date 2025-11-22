@@ -44,7 +44,7 @@ I’m actively building my analytics portfolio and looking for data analyst or B
 Google Data Analytics capstone-style project analyzing 5.6M+ real bike-share trips to understand behavioral differences between casual riders and annual members.
 
 🔗 **View the project:**  
-https://github.com/smyh1989/cyclistic-case-study
+https://smyh1989.github.io/cyclistic-case-study/
 
 ---
 
