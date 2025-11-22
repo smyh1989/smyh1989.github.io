@@ -44,7 +44,7 @@ I’m actively building my analytics portfolio and looking for data analyst or B
 Google Data Analytics capstone-style project analyzing 5.6M+ real bike-share trips to understand behavioral differences between casual riders and annual members.
 
 🔗 **View the project:**  
-https://smyh1989.github.io/cyclistic-case-study/
+[https://smyh1989.github.io/cyclistic-case-study/](https://smyh1989.github.io/cyclistic-case-study/)
 
 ---
 
@@ -64,8 +64,9 @@ Collection of SQL exercises showing SELECT, JOIN, GROUP BY, filtering, and inves
 
 ## 📫 Contact Me
 
-- **LinkedIn:** *https://www.linkedin.com/in/somi-shafiee89*  
-- **GitHub:** https://github.com/smyh1989   
+- **LinkedIn:** [https://www.linkedin.com/in/somi-shafiee89](https://www.linkedin.com/in/somi-shafiee89)
+- **GitHub:** [https://github.com/smyh1989](https://github.com/smyh1989)
+
 
 I’d love to connect with professionals, mentors, or teams working in data analytics.
 
